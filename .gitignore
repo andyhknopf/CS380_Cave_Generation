@@ -38,7 +38,7 @@
 x64/
 /Library
 /Logs
-/Logs
 *.log
 /Temp
 /obj
+/Logs
