@@ -1454,7 +1454,7 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: 12.244491, y: 0.88081896, z: -4.145278}
     speed: 2
     m_Value: {x: 0, y: 0, z: 0}
   m_RenderMode: 0
@@ -1502,11 +1502,11 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Target: {x: -0.014576224, y: 0.63186055, z: -0.01188712, w: -0.7748511}
     speed: 2
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_Size:
-    m_Target: 10
+    m_Target: 0.8660257
     speed: 2
     m_Value: 10
   m_Ortho:
@@ -2355,7 +2355,7 @@ MonoBehaviour:
       m_Data: 45622
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 45858
+    - m_Data: 45842
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2388,7 +2388,7 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 45858
+    - m_Data: 45842
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2605,10 +2605,10 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 308.33325
-      height: 200.33333
-    m_Scale: {x: 0.24088535, y: 0.24088535}
-    m_Translation: {x: 154.16663, y: 100.166664}
+      width: 463
+      height: 301
+    m_Scale: {x: 0.36171874, y: 0.36171874}
+    m_Translation: {x: 231.5, y: 150.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -2616,12 +2616,12 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -640
-      y: -415.82715
+      y: -416.06912
       width: 1280
-      height: 831.6543
+      height: 832.13824
     m_MinimalGUI: 1
-  m_defaultScale: 0.24088535
-  m_LastWindowPixelSize: {x: 308.33325, y: 221.33333}
+  m_defaultScale: 0.36171874
+  m_LastWindowPixelSize: {x: 463, y: 322}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 00000000000000000000
