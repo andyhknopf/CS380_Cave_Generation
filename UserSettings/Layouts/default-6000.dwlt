@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1349.3334
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -621,10 +621,10 @@ MonoBehaviour:
     m_TextWithWhitespace: "Game\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 242.66667
+    x: 364
     y: 78.66667
-    width: 1152.6667
-    height: 608
+    width: 1730
+    height: 865.3333
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -680,23 +680,23 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 1152.6667
-      height: 587
+      width: 1730
+      height: 844.3333
     m_Scale: {x: 1.1715338, y: 1.1715338}
-    m_Translation: {x: 576.3334, y: 293.5}
+    m_Translation: {x: 864.99994, y: 422.16666}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -491.9477
-      y: -250.52628
-      width: 983.8954
-      height: 501.05255
+      x: -738.34827
+      y: -360.3538
+      width: 1476.6965
+      height: 720.7076
     m_MinimalGUI: 1
-  m_defaultScale: 0.81527776
-  m_LastWindowPixelSize: {x: 1152.6667, y: 608}
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 2595, y: 1298}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -744,12 +744,11 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs:
-      - m_Data: 720
+      m_SelectedIDs: []
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -1292
+      - m_Data: -1306
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1314,9 +1313,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 12.244491, y: 0.88081896, z: -4.145278}
+    m_Target: {x: 24.440544, y: -29.076586, z: 10.197582}
     speed: 2
-    m_Value: {x: 12.244491, y: 0.88081896, z: -4.145278}
+    m_Value: {x: 24.440544, y: -29.076586, z: 10.197582}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1362,13 +1361,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.014576224, y: 0.63186055, z: -0.01188712, w: -0.7748511}
+    m_Target: {x: -0.604658, y: 0.027937988, z: -0.021230526, w: -0.7957038}
     speed: 2
-    m_Value: {x: -0.014576224, y: 0.6318605, z: -0.01188712, w: -0.7748511}
+    m_Value: {x: -0.6046619, y: 0.027938168, z: -0.021230662, w: -0.79570895}
   m_Size:
-    m_Target: 0.8660257
+    m_Target: 21.325844
     speed: 2
-    m_Value: 0.8660257
+    m_Value: 21.325844
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -2191,7 +2190,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Settings
+    - Assets/Scripts
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -2201,7 +2200,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Settings
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\SchoolProjects\CS380\CS380_Cave_Generation
   m_LockTracker:
@@ -2210,12 +2209,12 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_Data: 45962
+    - m_Data: 45970
     m_LastClickedID:
-      m_Data: 45962
+      m_Data: 45970
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 45640
+    - m_Data: 45650
     - m_Data: 1000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -2249,7 +2248,7 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 45640
+    - m_Data: 45650
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2276,9 +2275,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs:
-    - m_Data: 720
-    m_LastClickedInstanceID: 720
+    m_SelectedInstanceIDs: []
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
